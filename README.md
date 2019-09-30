@@ -1,7 +1,7 @@
 # 23design-mode  
 C++ Implement 23 design mode  
 
-aim to simple example achieve design mode  
+aim to simple example achieve 23 design mode  
 
 dev env:   
 CentOS release 6.6   
