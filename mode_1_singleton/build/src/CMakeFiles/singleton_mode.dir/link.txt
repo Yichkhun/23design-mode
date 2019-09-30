@@ -1,0 +1,1 @@
+g++   -O3 -Wall -std=c++0x -O3 -DNDEBUG    CMakeFiles/singleton_mode.dir/main.cpp.o CMakeFiles/singleton_mode.dir/stdafx.cpp.o  -o ../singleton_mode -rdynamic -lpthread 

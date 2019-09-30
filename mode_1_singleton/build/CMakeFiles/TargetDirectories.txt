@@ -1,0 +1,1 @@
+/root/githup/design-mode/23design-mode/mode_1_singleton/build/src/CMakeFiles/singleton_mode.dir

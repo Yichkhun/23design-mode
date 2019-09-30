@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/lock.h
+stdafx.h
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/stdafx.h
+
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/main.cpp
+stdafx.h
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/stdafx.h
+singleton.h
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/singleton.h
+
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/singleton.h
+lock.h
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/lock.h
+
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/stdafx.cpp
+stdafx.h
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/stdafx.h
+
+/root/githup/design-mode/23design-mode/mode_1_singleton/src/stdafx.h
+iostream
+-
+vector
+-
+pthread.h
+-
+unistd.h
+-
+
